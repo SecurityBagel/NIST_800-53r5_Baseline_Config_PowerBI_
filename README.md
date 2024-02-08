@@ -3,7 +3,8 @@
 </p>
 
 # NIST_800-53r5_Baseline_Config_PowerBI_
-An open-source Power BI app for configuring NIST 800-53r5 baseline controls. 
+An open-source Power BI app for configuring NIST 800-53r5 baseline controls and viewing control mappings. All source data is licensed by the NIST.
+Security Bagel is not affiliated or endorsed by NIST.
 
 # NIST 800-53 
 NIST Special Publication 800-53 is an information security standard that provides a catalog of security and privacy controls for all U.S. federal information systems except those related to national security. 
