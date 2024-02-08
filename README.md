@@ -15,8 +15,9 @@ It is published by the National Institute of Standards and Technology, which is 
 2. Download and run the .pbit or .pbix file and wait for auto download or refresh of source files.
 
 # Usage
-- Select control baselines.
-- Tailor in/out controls to create custom profile.
+- Interact with the Power BI Desktop buttons by holding CTRL+click, or upload to your own Power BI Service for web-based experience. 
+- Select control, privacy, or CSF baselines.
+- Tailor in/out controls to create a custom control profile.
 - Analyze control and NIST CSF mappings.
 - Use as a foundational tool for your compliance program.
   
