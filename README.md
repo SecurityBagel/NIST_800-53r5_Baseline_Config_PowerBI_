@@ -23,4 +23,4 @@ It is published by the National Institute of Standards and Technology, which is 
   
 # Screenshots
 
-![](https://github.com/SecurityBagel/NIST_800-53r5_Baseline_Config_PowerBI_/raw/main/NIST%20800-53r5%20Baseline%20Config%20PowerBI.mp4)
+![NIST_800-53r5_Baseline_Config_PowerBI_](https://github.com/SecurityBagel/NIST_800-53r5_Baseline_Config_PowerBI_/assets/138625733/20d30250-856b-4d16-a10b-ab700527938f)
