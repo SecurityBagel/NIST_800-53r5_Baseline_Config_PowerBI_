@@ -23,6 +23,4 @@ It is published by the National Institute of Standards and Technology, which is 
   
 # Screenshots
 
-![NIST800-53r5 Control Selection](https://github.com/SecurityBagel/NIST_800-53r5_Baseline_Config_PowerBI_/assets/138625733/cc03c434-a234-466b-a27a-cb95583f6487)
-
-![NIST800-53r5 Relationships](https://github.com/SecurityBagel/NIST_800-53r5_Baseline_Config_PowerBI_/assets/138625733/84a97132-f4ef-4093-9c13-49f9a4763012)
+![](https://github.com/SecurityBagel/NIST_800-53r5_Baseline_Config_PowerBI_/raw/main/NIST%20800-53r5%20Baseline%20Config%20PowerBI.mp4)
